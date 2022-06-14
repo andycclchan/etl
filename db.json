@@ -1,16 +1,102 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+    "Ctxt": {
+        "cou": 1,
+        "date": "20210101",
+        "hip": "XXX",
+        "numJ": 1,
+        "reu": 1
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
+    "Ts": 1653408818967,
+    "captures": [{
+            "Ariv": false,
+            "Axl": 0.0,
+            "Capt": 1,
+            "Cpar": "DP",
+            "Darr": 2100,
+            "Dcor": 0,
+            "Dep": 0,
+            "DmCo": 0,
+            "DpDp": 0,
+            "Dprm": 0,
+            "DrDp": 0,
+            "Epre": 0,
+            "Eprm": 0,
+            "HedA": 0,
+            "HedR": 0,
+            "LFou": 0,
+            "LMoyFou": 0,
+            "NFou": 0,
+            "NumP": 1,
+            "Pcen": 0,
+            "Pcou": 0,
+            "Plon": 0,
+            "Pos": {
+                "lat": 48.85825704,
+                "long": 2.23668161
+            },
+            "PosC": 0,
+            "Qcor": 0,
+            "Qmod": 4.0,
+            "RKPD": 0,
+            "RKRD": 0,
+            "Reac": 0,
+            "TDLD": 0,
+            "Tdep": 0,
+            "Tmes": 1649591741500,
+            "Vit": 1.456,
+            "Vmax": 0,
+            "Vmoy": 0,
+            "dA": -2.85078532,
+            "dC": -19.483496303232478,
+            "dD": 19.690942587721963,
+            "dX": -0.6911224178027737,
+            "dY": 19.67881017227853
+        }, {
+            "Ariv": false,
+            "Axl": 0.0,
+            "Capt": 2,
+            "Cpar": "DP",
+            "Darr": 2100,
+            "Dcor": 0,
+            "Dep": 0,
+            "DmCo": 0,
+            "DpDp": 0,
+            "Dprm": 0,
+            "DrDp": 0,
+            "Epre": 0,
+            "Eprm": 0,
+            "HedA": 0,
+            "HedR": 0,
+            "LFou": 0,
+            "LMoyFou": 0,
+            "NFou": 0,
+            "NumP": 2,
+            "Pcen": 0,
+            "Pcou": 0,
+            "Plon": 0,
+            "Pos": {
+                "lat": 48.85828888,
+                "long": 2.23670658
+            },
+            "PosC": 0,
+            "Qcor": 0,
+            "Qmod": 4.0,
+            "RKPD": 0,
+            "RKRD": 0,
+            "Reac": 0,
+            "TDLD": 0,
+            "Tdep": 0,
+            "Tmes": 1649591741500,
+            "Vit": 1.5919999999999999,
+            "Vmax": 0,
+            "Vmoy": 0,
+            "dA": 0.0,
+            "dC": 0.0,
+            "dD": 0.0,
+            "dX": 0.0,
+            "dY": 0.0
+        }
+    ]           
   ]
 }
